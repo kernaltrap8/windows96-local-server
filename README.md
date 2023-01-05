@@ -9,5 +9,7 @@ Open the `windows96-local` dir in a terminal, and run `npx http-server`. If `htt
 
 # Prerequisites
 node.js
+
 npm
+
 php (or similar webserver client)
