@@ -9,5 +9,7 @@ Open this dir in a terminal, and run `npx http-server`. If `http-server` is not 
 
 # Prerequisites
 node.js
+
 npm
+
 php (or similar webserver client)
